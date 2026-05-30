@@ -1,0 +1,6 @@
+{
+  "name": "AutoLISP AI",
+  "description": "Arabic & English natural language to AutoLISP script generator for AutoCAD, featuring a local database, helpful templates, and a setup guide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,38 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Code bracket Left '<' -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#00FFE0"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M 38,40 L 26,54 L 38,68" />
+        
+    <!-- Code bracket Right '>' -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#00FFE0"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M 70,40 L 82,54 L 70,68" />
+        
+    <!-- Architectural drafting triangle / ruler layout style -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M 23,28 L 85,28 L 54,82 Z" />
+        
+    <!-- Compass center compass needle indicator or crosshair -->
+    <path
+        android:fillColor="#FF9F1C"
+        android:pathData="M 54,54 A 3,3 0 1,1 53.99,54 Z" />
+</vector>
